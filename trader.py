@@ -87,6 +87,6 @@ def stop_trading():
 
 # Start the trading algorithm
 if __name__ == '__main__':
-    stop_trading()
+    start_trading()
 
 # To stop the trading algorithm, call stop_trading()
